@@ -1,0 +1,85 @@
+
+
+Module 01: Computer Forensics Fundamentals
+	Fundamentals of Computer Forensics 
+	Digital Evidence 
+	Forensic Readiness
+	Roles and Responsibilities of a Forensic Investigator
+	Legal Compliance in Computer Forensics
+  
+
+Module 02: Computer Forensics Investigation Process 
+	Forensic Investigation Process and its Importance 
+	Forensic Investigation Process - Pre-investigation 
+	Forensic Investigation Process - Investigation 
+	Forensic Investigation Process - Post-investigation 
+
+
+Module 03: Understanding Hard Disks and File Systems
+	Different Types of Disk Drives and their Characteristics
+	Logical Structure of a Disk
+	Booting Process of Windows, Linux, and Mac Operating Systems
+	File Systems of Windows, Linux, and Mac Operating Systems
+	File System Examination
+
+
+Module 04: Data Acquisition and Duplication
+	Data Acquisition Fundamentals
+	Types of Data Acquisition
+	Data Acquisition Format
+	Data Acquisition Methodology
+
+
+Module 05: Defeating Anti-forensics Techniques
+	Anti-forensics and its Techniques
+	Anti-forensics Countermeasures
+
+
+Module 06: Windows Forensics
+	Volatile and Non-Volatile Information
+	Windows Memory and Registry Analysis
+	Cache, Cookie, and History Recorded in Web Browsers
+	Windows Files and Metadata
+	Digital Forensics Essentials
+
+
+Module 07: Linux and Mac Forensics
+	Volatile and Non-Volatile Data in Linux
+	Analyze Filesystem Images Using The Sleuth Kit
+	Memory Forensics
+	Mac Forensics
+
+
+Module 08: Network Forensics
+	Network Forensics Fundamentals
+	Event Correlation Concepts and Types
+	Identify Indicators of Compromise (IoCs) from Network Logs
+	Investigate Network Traffic
+
+
+Module 09: Investigating Web Attacks
+	Web Application Forensics
+	IIS and Apache Web Server Logs
+	Investigating Web Attacks on Windows-based Servers
+	Detect and Investigate Attacks on Web Applications
+
+
+Module 10: Dark Web Forensics
+	Dark Web
+	Dark Web Forensics
+	Tor Browser Forensics
+
+
+Module 11: Investigating Email Crimes
+	Email Basics
+	Email Crime Investigation and its Steps
+
+
+Module 12: Malware Forensics
+	Malware, its Components and Distribution Methods
+	Malware Forensics Fundamentals and Recognize Types of Malware Analysis
+	Static Malware Analysis
+	Analyze Suspicious Word Documents
+	Dynamic Malware Analysis
+	System Behavior Analysis
+	Network Behavior Analysis
